@@ -24,7 +24,7 @@ function renderProducts(products) {
         <img src="${product.image}" alt="${product.name}">
         <h3>${product.name}</h3>
         <p>${product.description}</p>
-        <p>Price: ৳${product.price.toFixed(2)}</p>
+        <p>Price: BDT${product.price.toFixed(2)}</p>
         <button onclick="addToCart(${product.id}, '${product.name}', ${
         product.price
       })">Add to Cart</button>
@@ -50,7 +50,7 @@ function updateCartUI() {
     .map(
       (item) => `
       <div>
-        <p>${item.name} - $${item.price} x ${item.quantity}</p>
+        <p>${item.name} - BDT${item.price} x ${item.quantity}</p>
         <button onclick="updateQuantity(${item.id}, -1)">-</button>
         <button onclick="updateQuantity(${item.id}, 1)">+</button>
       </div>
