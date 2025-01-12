@@ -5,6 +5,7 @@ const cartCountEl = document.getElementById("cart-count");
 const subtotalPriceEl = document.getElementById("subtotal-price");
 const discountAmountEl = document.getElementById("discount-amount");
 const totalPriceEl = document.getElementById("total-price");
+const viewCartBtn = document.getElementById("view-cart-btn");
 const clearCartBtn = document.getElementById("clear-cart");
 
 const promoCodes = {
@@ -30,7 +31,7 @@ function renderProducts(products) {
         <img src="${product.image}" alt="${product.name}">
         <h3>${product.name}</h3>
         <p>${product.description}</p>
-        <p>Price: BDT${product.price.toFixed(2)}</p>
+        <p>Price: BDT ${product.price.toFixed(2)}</p>
         <button onclick="addToCart(${product.id}, '${product.name}', ${
         product.price
       })">Add to Cart</button>
@@ -55,13 +56,12 @@ function updateCartUI() {
   discountAmount = currentPromoCode ? subtotal * promoCodes[currentPromoCode] : 0;
   const total = subtotal - discountAmount;
 
-  // Update UI
   cartCountEl.textContent = cart.reduce((count, item) => count + item.quantity, 0);
   cartItemsEl.innerHTML = cart
     .map(
       (item) => `
       <div>
-        <p>${item.name} - BDT${item.price} x ${item.quantity}</p>
+        <p>${item.name} - BDT ${item.price} x ${item.quantity}</p>
         <button onclick="updateQuantity(${item.id}, -1)">-</button>
         <button onclick="updateQuantity(${item.id}, 1)">+</button>
       </div>
@@ -69,9 +69,9 @@ function updateCartUI() {
     )
     .join("");
 
-  subtotalPriceEl.textContent = subtotal.toFixed(2);
-  discountAmountEl.textContent = discountAmount.toFixed(2);
-  totalPriceEl.textContent = total.toFixed(2);
+  subtotalPriceEl.textContent = `BDT ${subtotal.toFixed(2)}`;
+  discountAmountEl.textContent = `BDT ${discountAmount.toFixed(2)}`;
+  totalPriceEl.textContent = `BDT ${total.toFixed(2)}`;
 }
 
 function updateQuantity(id, delta) {
@@ -108,7 +108,9 @@ function applyPromoCode() {
   updateCartUI();
 }
 
-document.getElementById("apply-promo").addEventListener("click", applyPromoCode);
+viewCartBtn.addEventListener("click", () => {
+  cartViewEl.classList.toggle("hidden");
+});
 
 clearCartBtn.addEventListener("click", () => {
   cart = [];
@@ -116,3 +118,5 @@ clearCartBtn.addEventListener("click", () => {
   document.getElementById("promo-message").textContent = "";
   updateCartUI();
 });
+
+document.getElementById("apply-promo").addEventListener("click", applyPromoCode);
