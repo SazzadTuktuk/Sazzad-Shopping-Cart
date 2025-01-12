@@ -4,24 +4,30 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sazzad Shopping Cart</title>
-
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-  <h1>Sazzad Shopping Cart</h1>
-  <div class="cart-icon">
-    <button id="view-cart-btn">Cart (<span id="cart-count">0</span>)</button>
-  </div>
-</header>
-
+    <h1>Sazzad Shopping Cart</h1>
+    <div class="cart-icon">
+      <button id="view-cart-btn">Cart (<span id="cart-count">0</span>)</button>
+    </div>
+  </header>
   <main>
     <section id="product-list" class="products"></section>
     <section id="cart-view" class="cart hidden">
       <h2>Cart</h2>
       <div id="cart-items"></div>
+      <div id="promo-code-section">
+        <label for="promo-code">Promo Code:</label>
+        <input type="text" id="promo-code" placeholder="Enter promo code">
+        <button id="apply-promo">Apply</button>
+        <p id="promo-message"></p>
+      </div>
       <div id="cart-summary">
-        <p>Total: BDT <span id="total-price">0.00</span></p>
+        <p>Subtotal: ৳<span id="subtotal-price">0.00</span></p>
+        <p>Discount: ৳<span id="discount-amount">0.00</span></p>
+        <p>Total: ৳<span id="total-price">0.00</span></p>
         <button id="clear-cart">Clear Cart</button>
         <button id="checkout">Checkout</button>
       </div>
