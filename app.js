@@ -24,7 +24,7 @@ function renderProducts(products) {
         <img src="${product.image}" alt="${product.name}">
         <h3>${product.name}</h3>
         <p>${product.description}</p>
-        <p>Price: $${product.price.toFixed(2)}</p>
+        <p>Price: ৳${product.price.toFixed(2)}</p>
         <button onclick="addToCart(${product.id}, '${product.name}', ${
         product.price
       })">Add to Cart</button>
