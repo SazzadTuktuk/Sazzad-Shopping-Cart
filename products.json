@@ -11,132 +11,132 @@
     "name": "Dark Chocolate Truffle",
     "description": "Rich dark chocolate truffles with a velvety center.",
     "price": 257,
-    "image": "https://www.google.com/imgres?q=ark%20Chocolate%20Truffle%20%2B%20filetype%3Ajpg&imgurl=https%3A%2F%2Fwww.happyfoodstube.com%2Fwp-content%2Fuploads%2F2016%2F12%2Fdark-chocolate-truffles-6.jpg&imgrefurl=https%3A%2F%2Fwww.happyfoodstube.com%2F2-ingredient-dark-chocolate-truffles-recipe%2F&docid=E-4evY5Gbl7sSM&tbnid=zi0GA61xP0hbFM&vet=12ahUKEwj9_Lfc1vCKAxVCumMGHYp8GRAQM3oECGQQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwj9_Lfc1vCKAxVCumMGHYp8GRAQM3oECGQQAA"
+    "image": "https://www.happyfoodstube.com/wp-content/uploads/2016/12/dark-chocolate-truffles-6.jpg"
   },
   {
     "id": 3,
     "name": "White Chocolate Bark",
     "description": "White chocolate bark with crushed almonds and cranberries.",
     "price": 342,
-    "image": "https://www.google.com/imgres?q=White%20Chocolate%20Bark%20%2B%20filetype%3Ajpg&imgurl=https%3A%2F%2Fwendypolisi.com%2Fwp-content%2Fuploads%2F2022%2F08%2FSQ-white-chocolate-bark-H.jpg&imgrefurl=https%3A%2F%2Fwendypolisi.com%2Fwhite-chocolate-bark%2F&docid=3YSBrVcGvAe2KM&tbnid=AyewnDAFP2S92M&vet=12ahUKEwiu5p781vCKAxUE4zgGHbkTIHsQM3oECBUQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwiu5p781vCKAxUE4zgGHbkTIHsQM3oECBUQAA"
+    "image": "https://wendypolisi.com/wp-content/uploads/2022/08/SQ-white-chocolate-bark-H.jpg"
   },
   {
     "id": 4,
     "name": "Hazelnut Chocolate Spread",
     "description": "Creamy hazelnut spread made with rich chocolate.",
     "price": 428,
-    "image": "https://www.google.com/imgres?q=%22Hazelnut%20Chocolate%20Spread%22%2Bfiletype%3Ajpg&imgurl=https%3A%2F%2Fichef.bbci.co.uk%2Ffood%2Fic%2Ffood_16x9_1600%2Frecipes%2Fhazelnut_chocolate_46076_16x9.jpg&imgrefurl=https%3A%2F%2Fwww.bbc.co.uk%2Ffood%2Frecipes%2Fhazelnut_chocolate_46076&docid=Bv3Pn2ZXD9Oh5M&tbnid=FeV5wlJqYUNeDM&vet=12ahUKEwjky7qE3PCKAxU83TgGHSQDKMYQM3oECBsQAA..i&w=1600&h=900&hcb=2&ved=2ahUKEwjky7qE3PCKAxU83TgGHSQDKMYQM3oECBsQAA"
+    "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/hazelnut_chocolate_46076_16x9.jpg"
   },
   {
     "id": 5,
     "name": "Mint Chocolate Chip",
     "description": "Refreshing mint chocolate chip pieces in a milk chocolate base.",
     "price": 299,
-    "image": "https://www.google.com/imgres?q=%22Mint%20Chocolate%20Chip%22%2Bfiletype%3Ajpg&imgurl=https%3A%2F%2Fwww.simplystacie.net%2Fwp-content%2Fuploads%2F2018%2F06%2FMint-Chocolate-Chip-Ice-Cream-LOW-RES-33.jpg&imgrefurl=https%3A%2F%2Fwww.simplystacie.net%2Fmint-chocolate-chip-ice-cream%2F&docid=Q6pEs1Ndh1bSEM&tbnid=oBwtc7h6Z7BTpM&vet=12ahUKEwjrh-Gh3PCKAxWFhGMGHavgLcgQM3oECBcQAA..i&w=1200&h=798&hcb=2&ved=2ahUKEwjrh-Gh3PCKAxWFhGMGHavgLcgQM3oECBcQAA"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8RNG_ojHKOBOhsGH8Ev_7MfaHyCq0pfnXDemit_bL3gwtPrUHfPAAfSOgiOZ2HOVS6tc&usqp=CAU"
   },
   {
     "id": 6,
     "name": "Caramel Filled Chocolate",
     "description": "Milk chocolate filled with gooey caramel.",
     "price": 214,
-    "image": "https://www.google.com/imgres?q=%22Caramel%20Filled%20Chocolate%22%2Bfiletype%3Ajpg&imgurl=https%3A%2F%2Fcharlotteslivelykitchen.com%2Fwp-content%2Fuploads%2F2016%2F08%2FCaramel-filled-chocolates-12.jpg&imgrefurl=https%3A%2F%2Fcharlotteslivelykitchen.com%2Fcaramel-filled-chocolates%2F&docid=ix3fAb02mdZx_M&tbnid=zwEdiQJmd6ymQM&vet=12ahUKEwjxrpOy3PCKAxVXxzgGHQNXC7EQM3oECBcQAA..i&w=700&h=700&hcb=2&ved=2ahUKEwjxrpOy3PCKAxVXxzgGHQNXC7EQM3oECBcQAA"
+    "image": "https://charlotteslivelykitchen.com/wp-content/uploads/2016/08/Caramel-filled-chocolates-12.jpg"
   },
   {
     "id": 7,
     "name": "Chocolate Covered Pretzels",
     "description": "Crunchy pretzels dipped in rich chocolate.",
     "price": 385,
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsugarspunrun.com%2Fchocolate-covered-pretzels%2F&psig=AOvVaw3O36iI4MWjtcOc3j9nLMGG&ust=1736789858235000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCFzLvc8IoDFQAAAAAdAAAAABAE"
+    "image": "https://sugarspunrun.com/wp-content/uploads/2023/11/Chocolate-covered-Pretzels-5-of-8-1024x1536.jpg"
   },
   {
     "id": 8,
     "name": "Sea Salt Dark Chocolate",
     "description": "Dark chocolate with a hint of sea salt.",
     "price": 257,
-    "image": "https://www.google.com/imgres?q=%22Sea%20Salt%20Dark%20Chocolate%22%2Bfiletype%3Ajpg&imgurl=http%3A%2F%2Fgodiva.com.au%2Fcdn%2Fshop%2Ffiles%2Fdark-chocolate-sea-salt-block-tablet-1.jpg%3Fv%3D1700111424&imgrefurl=https%3A%2F%2Fgodiva.com.au%2Fproducts%2Fsignature-tablet-dark-chocolate-sea-salt-90g&docid=ewV3iWtPbw8JzM&tbnid=h9FQ1KHKcD8H8M&vet=12ahUKEwi55qDP3PCKAxXd1jgGHRBSF-IQM3oECEsQAA..i&w=2048&h=2048&hcb=2&ved=2ahUKEwi55qDP3PCKAxXd1jgGHRBSF-IQM3oECEsQAA"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuGVPzVbXaGQv3g3G_XDgFYwaSDnEOkVEy6_lPobIBmTMddNGsEjai3bgLj23UASQ7IaY&usqp=CAU"
   },
   {
     "id": 9,
     "name": "Peanut Butter Chocolate Cups",
     "description": "Chocolate cups filled with creamy peanut butter.",
     "price": 274,
-    "image": "https://www.google.com/imgres?q=%22Peanut%20Butter%20Chocolate%20Cups%22%2Bfiletype%3Ajpg&imgurl=https%3A%2F%2Fwww.allrecipes.com%2Fthmb%2FAfMIiFm-22rJdMfGZnpP0dCkNcQ%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2F411529-chocolate-peanut-butter-cups-Sara-4x3-1-861a3262edfe4774994034b87fddba73.jpg&imgrefurl=https%3A%2F%2Fwww.allrecipes.com%2Frecipe%2F44715%2Fchocolate-peanut-butter-cups%2F&docid=mvHAqJ0TdCeybM&tbnid=zZJme-lvzICPBM&vet=12ahUKEwjon6rj3PCKAxX_7TgGHUAjJAEQM3oECGEQAA..i&w=1500&h=1125&hcb=2&ved=2ahUKEwjon6rj3PCKAxX_7TgGHUAjJAEQM3oECGEQAA"
+    "image": "https://www.allrecipes.com/thmb/AfMIiFm-22rJdMfGZnpP0dCkNcQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/411529-chocolate-peanut-butter-cups-Sara-4x3-1-861a3262edfe4774994034b87fddba73.jpg"
   },
   {
     "id": 10,
     "name": "Orange Zest Chocolate",
     "description": "Dark chocolate infused with a hint of orange zest.",
     "price": 299,
-    "image": "https://www.pexels.com/photo/orange-zest-chocolate-234567"
+    "image": "https://lexiscleankitchen.com/wp-content/uploads/2020/09/SeaSaltOrangeZestBark1-500x500.jpg"
   },
   {
     "id": 11,
     "name": "Raspberry Chocolate Bar",
     "description": "Milk chocolate with a raspberry filling.",
     "price": 324,
-    "image": "https://www.pexels.com/photo/raspberry-chocolate-bar-345678"
+    "image": "https://www.ghirardelli.com/media/catalog/product/2/6/262cce1b14021a80cbee97eacbec7256b5ef3a6a53ce2bbaf7766072e7c2d1ee.jpeg?quality=80&fit=bounds&height=500&width=500&canvas=500:500"
   },
   {
     "id": 12,
     "name": "Coconut Chocolate Delight",
     "description": "Dark chocolate with a coconut center.",
     "price": 342,
-    "image": "https://www.pexels.com/photo/coconut-chocolate-delight-456789"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8saWFzXbjST5FCw9s1GfD7_iBn0Q2NBN6hg&s"
   },
   {
     "id": 13,
     "name": "Almond Chocolate Clusters",
     "description": "Milk chocolate clusters with roasted almonds.",
     "price": 359,
-    "image": "https://www.pexels.com/photo/almond-chocolate-clusters-567890"
+    "image": "https://sallysbakingaddiction.com/wp-content/uploads/2016/02/dark-chocolate-sea-salt-clusters-2.jpg"
   },
   {
     "id": 14,
     "name": "Espresso Chocolate Bites",
     "description": "Dark chocolate bites with a hint of espresso.",
     "price": 299,
-    "image": "https://www.pexels.com/photo/espresso-chocolate-bites-678901"
+    "image": "https://thefrizzledleek.com/wp-content/uploads/2021/07/date-ball-on-white-plate-720x960.jpg"
   },
   {
     "id": 15,
     "name": "Cherry Chocolate Drops",
     "description": "Milk chocolate drops with dried cherries.",
     "price": 282,
-    "image": "https://www.pexels.com/photo/cherry-chocolate-drops-789012"
+    "image": "https://www.allrecipes.com/thmb/pIP69wq3bBWirP_wFI3fEaLEn8c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5624-8a6234bea4aa45ab932e88e2557fbad2.jpg"
   },
   {
     "id": 16,
     "name": "Ginger Dark Chocolate",
     "description": "Dark chocolate with a spicy ginger twist.",
     "price": 317,
-    "image": "https://www.pexels.com/photo/ginger-dark-chocolate-890123"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4XtpgvyX9kzXwmLN-oh1PscPhr5ECUBByMQ&s"
   },
   {
     "id": 17,
     "name": "Toffee Chocolate Crunch",
     "description": "Milk chocolate with crunchy toffee pieces.",
     "price": 342,
-    "image": "https://www.pexels.com/photo/toffee-chocolate-crunch-901234"
+    "image": "https://www.afarmgirlsdabbles.com/wp-content/uploads/2019/12/toffee_AFarmgirlsDabbles_AFD-4a-copy.jpg"
   },
   {
     "id": 18,
     "name": "Chili Chocolate Bar",
     "description": "Dark chocolate with a spicy chili kick.",
     "price": 308,
-    "image": "https://www.pexels.com/photo/chili-chocolate-bar-123456"
+    "image": "https://www.lindt.ca/media/catalog/product/4/b/4bd95b37f9673f0d08e4b4dd04b3c51f8f9a5a741daad4b777d0a185f490f150.jpeg?quality=80&fit=bounds&height=700&width=700&canvas=700:700"
   },
   {
     "id": 19,
     "name": "Blueberry Chocolate",
     "description": "Milk chocolate with dried blueberries.",
     "price": 333,
-    "image": "https://www.pexels.com/photo/blueberry-chocolate-234567"
+    "image": "https://theheirloompantry.co/wp-content/uploads/2023/02/easy-chocolate-covered-blueberries-the-heirloom-pantry-1.jpg"
   },
   {
     "id": 20,
     "name": "Matcha Green Tea Chocolate",
     "description": "White chocolate infused with matcha green tea.",
     "price": 385,
-    "image": "https://www.pexels.com/photo/matcha-green-tea-chocolate-345678"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnIQTTDpl3wRVv3Q0QjM-uIdpNPRSBNnsbA&s"
   }
 ]
