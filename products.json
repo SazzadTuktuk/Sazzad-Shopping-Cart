@@ -3,140 +3,140 @@
     "id": 1,
     "name": "Milk Chocolate Bar",
     "description": "A classic milk chocolate bar with a smooth and creamy texture.",
-    "price": 2.5,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 214,
+    "image": "https://www.pexels.com/photo/milk-chocolate-bar-234567"
   },
   {
     "id": 2,
     "name": "Dark Chocolate Truffle",
     "description": "Rich dark chocolate truffles with a velvety center.",
-    "price": 3.0,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 257,
+    "image": "https://www.pexels.com/photo/dark-chocolate-truffle-345678"
   },
   {
     "id": 3,
     "name": "White Chocolate Bark",
     "description": "White chocolate bark with crushed almonds and cranberries.",
-    "price": 4.0,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 342,
+    "image": "https://www.pexels.com/photo/white-chocolate-bark-456789"
   },
   {
     "id": 4,
     "name": "Hazelnut Chocolate Spread",
     "description": "Creamy hazelnut spread made with rich chocolate.",
-    "price": 5.0,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 428,
+    "image": "https://www.pexels.com/photo/hazelnut-chocolate-spread-567890"
   },
   {
     "id": 5,
     "name": "Mint Chocolate Chip",
     "description": "Refreshing mint chocolate chip pieces in a milk chocolate base.",
-    "price": 3.5,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 299,
+    "image": "https://www.pexels.com/photo/mint-chocolate-chip-678901"
   },
   {
     "id": 6,
     "name": "Caramel Filled Chocolate",
     "description": "Milk chocolate filled with gooey caramel.",
-    "price": 2.8,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 214,
+    "image": "https://www.pexels.com/photo/caramel-filled-chocolate-789012"
   },
   {
     "id": 7,
     "name": "Chocolate Covered Pretzels",
     "description": "Crunchy pretzels dipped in rich chocolate.",
-    "price": 4.5,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 385,
+    "image": "https://www.pexels.com/photo/chocolate-covered-pretzels-890123"
   },
   {
     "id": 8,
     "name": "Sea Salt Dark Chocolate",
     "description": "Dark chocolate with a hint of sea salt.",
-    "price": 3.0,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 257,
+    "image": "https://www.pexels.com/photo/sea-salt-dark-chocolate-901234"
   },
   {
     "id": 9,
     "name": "Peanut Butter Chocolate Cups",
     "description": "Chocolate cups filled with creamy peanut butter.",
-    "price": 3.2,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 274,
+    "image": "https://www.pexels.com/photo/peanut-butter-chocolate-cups-123456"
   },
   {
     "id": 10,
     "name": "Orange Zest Chocolate",
     "description": "Dark chocolate infused with a hint of orange zest.",
-    "price": 3.5,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 299,
+    "image": "https://www.pexels.com/photo/orange-zest-chocolate-234567"
   },
   {
     "id": 11,
     "name": "Raspberry Chocolate Bar",
     "description": "Milk chocolate with a raspberry filling.",
-    "price": 3.8,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 324,
+    "image": "https://www.pexels.com/photo/raspberry-chocolate-bar-345678"
   },
   {
     "id": 12,
     "name": "Coconut Chocolate Delight",
     "description": "Dark chocolate with a coconut center.",
-    "price": 4.0,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 342,
+    "image": "https://www.pexels.com/photo/coconut-chocolate-delight-456789"
   },
   {
     "id": 13,
     "name": "Almond Chocolate Clusters",
     "description": "Milk chocolate clusters with roasted almonds.",
-    "price": 4.2,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 359,
+    "image": "https://www.pexels.com/photo/almond-chocolate-clusters-567890"
   },
   {
     "id": 14,
     "name": "Espresso Chocolate Bites",
     "description": "Dark chocolate bites with a hint of espresso.",
-    "price": 3.5,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 299,
+    "image": "https://www.pexels.com/photo/espresso-chocolate-bites-678901"
   },
   {
     "id": 15,
     "name": "Cherry Chocolate Drops",
     "description": "Milk chocolate drops with dried cherries.",
-    "price": 3.3,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 282,
+    "image": "https://www.pexels.com/photo/cherry-chocolate-drops-789012"
   },
   {
     "id": 16,
     "name": "Ginger Dark Chocolate",
     "description": "Dark chocolate with a spicy ginger twist.",
-    "price": 3.7,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 317,
+    "image": "https://www.pexels.com/photo/ginger-dark-chocolate-890123"
   },
   {
     "id": 17,
     "name": "Toffee Chocolate Crunch",
     "description": "Milk chocolate with crunchy toffee pieces.",
-    "price": 4.0,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 342,
+    "image": "https://www.pexels.com/photo/toffee-chocolate-crunch-901234"
   },
   {
     "id": 18,
     "name": "Chili Chocolate Bar",
     "description": "Dark chocolate with a spicy chili kick.",
-    "price": 3.6,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 308,
+    "image": "https://www.pexels.com/photo/chili-chocolate-bar-123456"
   },
   {
     "id": 19,
     "name": "Blueberry Chocolate",
     "description": "Milk chocolate with dried blueberries.",
-    "price": 3.9,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 333,
+    "image": "https://www.pexels.com/photo/blueberry-chocolate-234567"
   },
   {
     "id": 20,
     "name": "Matcha Green Tea Chocolate",
     "description": "White chocolate infused with matcha green tea.",
-    "price": 4.5,
-    "image": "https://www.freepik.com/free-photos-vectors/chocolate-bar_795302"
+    "price": 385,
+    "image": "https://www.pexels.com/photo/matcha-green-tea-chocolate-345678"
   }
 ]
